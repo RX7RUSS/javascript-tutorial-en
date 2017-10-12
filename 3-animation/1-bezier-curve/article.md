@@ -2,7 +2,7 @@
 
 Bezier curves are used in computer graphics to draw shapes, for CSS animation and in many other places.
 
-They are actually a very simple thing, worth to study once and then feel comfortable in the world of vector graphics and advanced animations.
+Bezier curves are actually a very simple topic, worth studying once in order to feel comfortable in the world of vector graphics and advanced animations.
 
 [cut]
 
